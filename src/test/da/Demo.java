@@ -1,7 +1,7 @@
 package test.da;
 /**
  * 
- * @author Administrator
+ * @author gzhixin
  *
  */
 public class Demo {
